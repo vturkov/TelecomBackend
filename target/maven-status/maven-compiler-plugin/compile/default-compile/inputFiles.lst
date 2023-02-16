@@ -1,0 +1,14 @@
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/services/UserServiceImpl.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/services/CallService.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/DVO/CallVO.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/DVO/BalanceVO.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/MainController.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/entities/Call.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/services/CallServiceImpl.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/DVO/UserVO.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/UserRepository.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/services/UserService.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/App.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/DVO/CallErrorVO.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/CallRepository.java
+/home/dmitrii/Projects/TelecomBackend/src/main/java/Telecom/entities/User.java

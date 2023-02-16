@@ -1,0 +1,14 @@
+Telecom/services/CallServiceImpl.class
+Telecom/UserRepository.class
+Telecom/entities/User.class
+Telecom/DVO/UserVO.class
+Telecom/MainController.class
+Telecom/DVO/CallErrorVO.class
+Telecom/DVO/BalanceVO.class
+Telecom/entities/Call.class
+Telecom/services/UserService.class
+Telecom/DVO/CallVO.class
+Telecom/services/UserServiceImpl.class
+Telecom/CallRepository.class
+Telecom/App.class
+Telecom/services/CallService.class
